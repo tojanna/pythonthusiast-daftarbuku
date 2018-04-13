@@ -27,6 +27,6 @@ Test penggunaan git
 - Meng-commit kode dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
 
-## Kesimpulan
+## Instalasi
 - Keuntungan Git dan Github, kode akan aman dari hard disk rusak
 - Memiliki repository Github yang public akan menjadikan repository tersebut sebagai portfolio
