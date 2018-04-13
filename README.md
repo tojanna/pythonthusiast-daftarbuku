@@ -11,3 +11,8 @@ Test penggunaan git
 - Tambahkan ke daftar file yang di ubah dengan git add
 - Simpan perubahan dengan git commit 
 - Kirm perubahan ke github dengan git push
+
+## Menggunakan GIT dengan PyCharm
+- Membuka project yang sudah di clone di command line
+- Merubah file
+- Mengirim file ke Github 
