@@ -27,6 +27,6 @@ Test penggunaan git
 - Meng-commit kode dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
 
-## Instalasi
-- Menggunakan linux dengan apt install git
-- Menggunakan windows dengan mendownload tool Git di https://git-scm.com/downloads
+## Kesimpulan
+- Keuntungan Git dan Github, kode akan aman dari hard disk rusak
+- Memiliki repository Github yang public akan menjadikan repository tersebut sebagai portfolio
