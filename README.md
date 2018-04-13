@@ -26,3 +26,7 @@ Test penggunaan git
 - Merubah kode pada branch tersebut
 - Meng-commit kode dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
+
+## Kesimpulan 
+- Dengan Git dan Github kode akan aman dari hard dis rusak
+- Memiliki repository Github yang public. akan menjadikan repository tersebut sebagai portfolio
