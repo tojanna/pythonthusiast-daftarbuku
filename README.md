@@ -28,5 +28,5 @@ Test penggunaan git
 - Mem-push branch tersebut
 
 ## Instalasi
-- Mmenggunakan linux dengan apt install git
+- Menggunakan linux dengan apt install git
 - Menggunakan windows dengan mendownload tool Git di https://git-scm.com/downloads
