@@ -26,4 +26,3 @@ Test penggunaan git
 - Merubah kode pada branch tersebut
 - Meng-commit kode dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
-- 
