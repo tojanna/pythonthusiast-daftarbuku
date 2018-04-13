@@ -1,6 +1,7 @@
-## pythonthusiast-daftarbuku
+## Daftar Buku - Sebuah Proyek Pyhtonthusiast
 Test penggunaan git
-##Menggunakan GIT dengan command line
+
+## Menggunakan GIT dengan command line
 - Buat SSH keys
 - Upload ke Github
 - Buat repository
